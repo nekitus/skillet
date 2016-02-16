@@ -1,0 +1,24 @@
+{
+  "name": "skillet",
+  "version": "0.0.0",
+  "description": "frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frame",
+    "skillet"
+  ],
+  "author": "n.kashtanov",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-jsx": "^2.0.1",
+    "gulp-react": "^3.1.0",
+    "gulp-watch": "^4.3.5",
+    "react-dom": "^0.14.7"
+  }
+}
